@@ -39,6 +39,7 @@ Inverse mapping thực hiện theo hướng ngược lại, tức là duyệt t�
 ---
 
 ## 3. Screenshots of Outputs
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/2769d550-9866-4b96-a9ef-848b39897442" />
 
 
 
