@@ -1,4 +1,4 @@
-# 📄 REPORT – GEOMETRIC TRANSFORMS
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/9958e927-0a64-43fe-bdc1-00c78bf3af54" /># 📄 REPORT – GEOMETRIC TRANSFORMS
 
 ## 1. Mathematical Formulas for Transformations
 
@@ -39,7 +39,31 @@ Inverse mapping thực hiện theo hướng ngược lại, tức là duyệt t�
 ---
 
 ## 3. Screenshots of Outputs
-<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/2769d550-9866-4b96-a9ef-848b39897442" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/2769d550-9866-4b96-a9ef-848b39897442" /> 
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/d1ca2b34-d28a-420b-a545-9ee223e065bf" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/f45e1f8a-8abc-451e-bdbc-0cd3a89db902" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/7672084b-9b34-4c13-835b-1018c2ad1024" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/7e7c2a38-3bea-4848-85b5-60b99aee31ea" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/e574cf42-33cd-4f2b-b1a9-174afcd8455d" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/60d37aa0-4343-47cc-b7c2-87abc7adc864" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/674b2389-48d5-49a9-b373-fff6200c8a1c" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/423ce223-fc07-436b-81b5-4db452e766ce" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/1ffd150e-9a0f-4528-84cb-fc6d805cf2f5" />
+<img width="500" height="411" alt="image" src="https://github.com/user-attachments/assets/773b7792-db86-46d9-9a24-58babfa25520" />
+<img width="912" height="427" alt="image" src="https://github.com/user-attachments/assets/6b7d6c76-045b-4ee2-813d-96a2df92364f" />
+<img width="912" height="427" alt="image" src="https://github.com/user-attachments/assets/984537c8-6c6d-456a-af24-f41dfb023476" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
